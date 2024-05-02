@@ -1,3 +1,2 @@
-# Recipe 
+# Recipe Profile README
 
-Visit [userecipe.com](https://userecipe.com) to learn more. 
