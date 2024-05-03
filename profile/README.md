@@ -1,6 +1,6 @@
 # Recipe
 
-Visit [userecipe.com](userecipe.com) to learn more
+Visit [userecipe.com](https://userecipe.com) to learn more
 
 <br>
 <br>
